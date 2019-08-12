@@ -1,0 +1,5 @@
+Esto es un archivo de ejemplo,
+que posee dos lineas de texto
+Esta es la tercera fila del archivo
+Esta es la tercera fila del archivo
+Esta es la tercera fila del archivo
