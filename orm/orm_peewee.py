@@ -1,3 +1,5 @@
+# pip3 install peewee
+
 import datetime
 
 import peewee
